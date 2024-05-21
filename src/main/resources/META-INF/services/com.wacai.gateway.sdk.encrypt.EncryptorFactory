@@ -1,0 +1,2 @@
+com.wacai.gateway.sdk.encrypt.des.DESEncryptorFactory
+com.wacai.gateway.sdk.encrypt.rsa.RSAEncryptorFactory
