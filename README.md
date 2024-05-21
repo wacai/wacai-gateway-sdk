@@ -5,10 +5,6 @@
 - 内置了okhttp进行http请求，同时也支持替换其他http客户端。
 - 内置了本地监控，对流量，耗时，成功率进行统计。
 
-### 设计
-
-<img src="http://git.caimi-inc.com/middleware/neptune/uploads/0417ef8dbb77e73c185e4e3e09ff0a44/image.png" width="75%" height="75%">
-
 
 ### 用法
 
