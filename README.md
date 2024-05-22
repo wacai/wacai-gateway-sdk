@@ -24,8 +24,8 @@ maven依赖：
 ``` java
 NeptuneConfig config = Neptune.config()
 		.host("http://neptune-server.middleware.k2.test.wacai.info")
-		.appKey("abrc8udxqybq")
-		.appSecret("t9urvc3ddtcrd9mb")
+		.appKey("******")//替换为实际的appKey
+		.appSecret("("******") //替换为实际的appSecret
 		.build();
 
 NeptuneClient client = Neptune.client(config);
