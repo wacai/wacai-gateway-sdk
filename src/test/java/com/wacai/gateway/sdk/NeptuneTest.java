@@ -11,8 +11,8 @@ public class NeptuneTest {
     public void test() {
         NeptuneConfig config = Neptune.config()
                 .host("http://neptune.test.wacai.info/api-entry")
-                .appKey("vdcxe3qwdd5u")
-                .appSecret("fh4ap4wy7nkxywu6")
+                .appKey("******")
+                .appSecret("******")
                 .timeoutMs(4000)
                 .build();
         NeptuneClient client = Neptune.client(config);
